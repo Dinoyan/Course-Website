@@ -1,1 +1,1 @@
-Don't really know what to type just intializing the file 
+As a student user, the student must be able to see all the lecture timetable when clicking on the lectures 
