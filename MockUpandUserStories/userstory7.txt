@@ -1,0 +1,1 @@
+As a student user, the student will be taken to the assignmnets page, when clicking the assigment button

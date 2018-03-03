@@ -1,0 +1,1 @@
+As a student user, the student must be able to see the course calendar, using a table of what content is being covered each week when clicking on the calendar button

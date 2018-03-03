@@ -1,0 +1,1 @@
+As a student user, the student will be taken to the lab page with file links when clicking on the lab button. 

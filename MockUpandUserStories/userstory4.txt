@@ -1,0 +1,1 @@
+As a student user, the student will be taken to the piazza forum when clicking on the discussion board button
