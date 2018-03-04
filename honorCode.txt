@@ -1,0 +1,7 @@
+Honor Code: We pledge that this program represents my own program code and that
+We have coded on my own. We received help from no one in designing and debugging
+my program. We have also read the plagiarism section in the course info sheet
+of CSC B20 and understand the consequences.
+
+Revon Villava-Rayen   Student# 1002987501 
+Dinoyan Ganeshalingam Student# 1003018708
