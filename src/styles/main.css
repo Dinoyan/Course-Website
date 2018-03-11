@@ -6,7 +6,7 @@ body {
     margin: 0 0 100px;
     /* bottom = footer height */
     padding: 25px;
-    background-color: #F8F8FF;
+    background-color: #F8F8FF;  
 }
 
 h1 {
@@ -48,6 +48,21 @@ li a {
     text-decoration: none;
 }
 
+.Secondaryheader{
+    font-family: Courier New; 
+    color: #00204E;
+}
+
+.column{
+    float: left;
+    width: 33.33%; 
+}
+
+.row:after{
+    content: " ";
+    display: table;
+    clear: both;
+}
 
   
 .container{
