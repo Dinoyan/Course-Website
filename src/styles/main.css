@@ -83,8 +83,21 @@ li a {
     display: table;
     clear: both;
    
-  }
+}
 
+.infocolumn{
+    float: left;
+    width: 25%; 
+    color: #00204E;
+    font-family: Courier New;
+    font-weight: lighter; 
+}
+
+.inforow:after{
+    display: table;
+    clear: both;
+   
+}
 
 
 .Description{
@@ -126,6 +139,12 @@ li a {
     color: #00204E;
     font-family: Courier New; 
 }
+
+div.c {
+    text-align: right;
+} 
+
+
 
 
 
