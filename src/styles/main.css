@@ -6,7 +6,7 @@ body {
     margin: 0 0 100px;
     /* bottom = footer height */
     padding: 25px;
-    background-color: powderblue;
+    background-color: #F8F8FF;
 }
 
 h1 {
@@ -109,6 +109,23 @@ li a {
     height:90%;
 
 }
+
+
+#images{
+    text-align:center;
+    margin:50px auto;
+    vertical-align: middle;
+}
+#images a{
+    margin:0px 20px;
+    display:inline-block;
+    text-decoration:none;
+    color:black;
+}
+
+
+
+
 
 .footer {
     background-color: 	#00204E;
