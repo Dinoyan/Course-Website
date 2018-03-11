@@ -13,14 +13,17 @@ h1 {
     width: 100%;
     text-align: center;
     font-family: Courier New;
+    color: #00204E; 
   }
 
 div.a {
     text-align: center;
     font-family: Courier New;
+    color: #00204E;
 }
 
 
+<<<<<<< HEAD
 li {
     float: left;
     text-align: center;
@@ -44,13 +47,47 @@ li a {
     text-decoration: none;
 }
 
+=======
+.Description{
+    border:5px solid #00204E;
+    padding: 20px;
+    max-width: 95%;
+    width: 100%;
+    margin: 20px auto;
+    color: #00204E;
+}
 
+<<<<<<< HEAD
+=======
+.logo{
+    height:90%;
+
+}
+>>>>>>> 30513545985de5d105b9b85aba48e90556c3979a
+
+
+
+>>>>>>> Revon_xdddd
 .footer {
-    background-color: 	#0080ff;
+    background-color: 	#00204E;
     position: absolute;
     left: 0;
     bottom: 0;
     height: 60px;
     width: 100%;
-    overflow:hidden;
+    max-height: 
+    color: #FFFFFF;
+    overflow: hidden; 
+
+}
+
+.foottext {
+    width:50%;
+    height: 50%;
+    float: right;
+    text-align: right;
+    margin-right: 1vw;   
+    padding: 0;
+    color: white;
+    font-family: Courier New; 
 }
