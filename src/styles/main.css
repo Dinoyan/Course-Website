@@ -94,7 +94,7 @@ li a {
 }
 
 #images a:hover{
-    background: black; 
+     opacity: 0.3; 
 }
 #images a{
     margin:0px 20px;
