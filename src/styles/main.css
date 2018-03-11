@@ -56,13 +56,17 @@ li a {
 .column{
     float: left;
     width: 33.33%; 
+    color: #00204E;
+    font-family: Courier New;
+    font-weight: bold; 
 }
 
 .row:after{
     content: " ";
     display: table;
     clear: both;
-}
+   
+  }
 
 
 
