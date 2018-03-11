@@ -20,10 +20,10 @@ div.a {
     text-align: center;
     font-family: Courier New;
     color: #00204E;
+    border: 3px solid darkblue;
 }
 
 
-<<<<<<< HEAD
 li {
     float: left;
     text-align: center;
@@ -36,6 +36,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333333;
+    position: absolute;
 }
 
 
@@ -48,6 +49,51 @@ li a {
 }
 
 
+  
+.container{
+    text-align:center;
+    vertical-align: middle;
+     position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+     /*position:absolute;*/
+    /*display:block;
+    height:100px;
+    width:100px;
+    left:50%;
+    top:50%;
+    margin-top:-50px;
+    margin-left:-50px;
+
+    width:200px;
+    height:200px;
+    position: fixed;
+    background-color: #00FF00;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;*/
+
+    
+}
+
+.fake_img{
+    display:inline-block;
+    margin:5px 20px;
+    padding:5px;
+    vertical-align: middle;
+    float: right;
+   
+    
+    
+}
+
+
+
 .Description{
     border:5px solid #00204E;
     padding: 20px;
@@ -55,6 +101,7 @@ li a {
     width: 100%;
     margin: 20px auto;
     color: #00204E;
+    border: 3px solid green;
 }
 
 
