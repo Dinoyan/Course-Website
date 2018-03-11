@@ -1,0 +1,1 @@
+As a student user, the student will see the tutorial schedule when clicking on the tutorial button 
