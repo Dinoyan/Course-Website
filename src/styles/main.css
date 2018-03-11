@@ -21,6 +21,29 @@ div.a {
 }
 
 
+li {
+    float: left;
+    text-align: center;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+}
+
 
 .footer {
     background-color: 	#0080ff;
