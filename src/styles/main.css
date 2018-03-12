@@ -48,6 +48,15 @@ li a {
     text-decoration: none;
 }
 
+ p a:visited{
+    color: purple; 
+}
+
+ p a:link{
+    color:#00204E ;
+
+}
+
 .Secondaryheader{
     font-family: Courier New; 
     color: #00204E;
