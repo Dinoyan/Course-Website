@@ -145,6 +145,11 @@ div.c {
 } 
 
 
+figure {
+    display: inline-block;
+}
+
+
 
 
 
