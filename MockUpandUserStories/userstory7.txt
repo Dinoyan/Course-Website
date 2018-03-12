@@ -1,1 +1,1 @@
-As a student user, the student will be taken to the assignmnets page, when clicking the assigment button
+As a student user, the student will be taken to the assignmnets page, when clicking the assigment button. Student will see the current assignment, due date.

@@ -1,1 +1,1 @@
-As a student user, the student must be able to see new and recent anounncments when clicking on the announcment button 
+As a student user, the student must be able to see new and recent anounncments when clicking on the news button 

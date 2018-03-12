@@ -1,1 +1,1 @@
-As a student user, the student will be taken to the test page, displayed as a table, when clicking on the test button. 
+As a student user, the student will be taken to the test page, displayed as a table, when clicking on the test button. Student will see all the info about the test including room allocation.
